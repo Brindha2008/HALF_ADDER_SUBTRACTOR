@@ -2,7 +2,6 @@
 
 DATE: 21/11/2025
 
-
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -85,10 +84,6 @@ module half_subtractor (
 
 endmodule
 ```
-
-
-
-
 Developed by: Brindha A R
 
 
@@ -103,7 +98,6 @@ HALF ADDER:-
 HALF SUBTRACTOR:-
 
 <img width="771" height="403" alt="Screenshot 2025-11-21 202511" src="https://github.com/user-attachments/assets/f450f065-2af1-4f5b-816b-74193b3049a7" />
-
 
 **Output/TIMING Waveform**
 
