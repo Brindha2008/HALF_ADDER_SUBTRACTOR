@@ -100,11 +100,9 @@ HALF ADDER:-
 
 <img width="608" height="305" alt="Screenshot 2025-11-21 202252" src="https://github.com/user-attachments/assets/505f2e11-b288-4b15-bd07-f8555faeb6a1" />
 
-
 HALF SUBTRACTOR:-
 
 <img width="771" height="403" alt="Screenshot 2025-11-21 202511" src="https://github.com/user-attachments/assets/f450f065-2af1-4f5b-816b-74193b3049a7" />
-
 
 
 **Output/TIMING Waveform**
@@ -118,5 +116,4 @@ HALF SUBTRACTOR:-
 <img width="878" height="155" alt="Screenshot 2025-11-21 202748" src="https://github.com/user-attachments/assets/07ed64ba-0099-4557-96e2-1850e40e988d" />
 
 **Result:**
-
 Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
