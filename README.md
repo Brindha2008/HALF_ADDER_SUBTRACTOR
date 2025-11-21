@@ -121,5 +121,11 @@ Thus, the given logic functions are implemented using and their operations are v
 
 
 
+...
+
+
+
+
+
 
 
