@@ -92,6 +92,7 @@ Developed by: Brindha A R
 RegisterNumber:25013493
 
 **RTL Schematic**
+
 HALF ADDER:-
 
 <img width="608" height="305" alt="Screenshot 2025-11-21 202252" src="https://github.com/user-attachments/assets/505f2e11-b288-4b15-bd07-f8555faeb6a1" />
@@ -104,6 +105,7 @@ HALF SUBTRACTOR:-
 
 
 **Output/TIMING Waveform**
+
 HALF ADDER:-
 
 <img width="795" height="162" alt="Screenshot 2025-11-21 202635" src="https://github.com/user-attachments/assets/c475b054-98ea-4d43-9489-bc6fd7718b82" />
